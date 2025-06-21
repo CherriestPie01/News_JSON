@@ -1,1 +1,166 @@
-
+{
+  "News_JSON": [
+    {
+      "url": "https://www.youtube.com/watch?v=fNik3b91PS4",
+      "type": "Interview",
+      "title": "Interview with Jonas Renkse of Katatonia on the upcoming 'Nightmares as Extensions of the Waking State' album",
+      "bandID": "6"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=RuwM-zFq-OU",
+      "type": "Interview",
+      "title": "Tim Charles of Ne Obliviscaris discusses new frontman James Dorton, memorable fan interactions and the challenges of pursuing a music career",
+      "bandID": "91913"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VC4toOhmt7U",
+      "type": "Interview",
+      "title": "Eric Peterson of Testament on the band's Australian tour, plans on writing an autobiography and working with John Pyras in Dragonlord",
+      "bandID": "70"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=F4dwLvPKWrU",
+      "type": "Interview",
+      "title": "What kind of SKELETONS does Apocalyptica's EICCA TOPPINEN have in his CLOSET?",
+      "bandID": "1752"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=8SVEdqjlJHo",
+      "type": "Interview",
+      "title": "Interview with Viljami Jupiter Wenttola of Joviac",
+      "bandID": "3540465932"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=P2hd1kj6bJE",
+      "type": "Interview",
+      "title": "Steve Wiener of Am I In Trouble? Talks Spectrum, Musical Diversity and Kirby",
+      "bandID": "3540556727"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=VSdWKSuRODE",
+      "type": "Interview",
+      "title": "Interview with Vili Auvinen of Pressure Points for The Offering Webzine",
+      "bandID": "93864"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Op8VAVA4r00",
+      "type": "Interview",
+      "title": "My Story As Metal Frontman: Michael Poulsen (Volbeat, Asinhell)",
+      "bandID": "33323"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=z-Oz29hOKzg",
+      "type": "Interview",
+      "title": "Interview with Tom Angelripper of SODOM for Heavy Demons Radio Show",
+      "bandID": "419"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=o5C_fGB0nd0",
+      "type": "Interview",
+      "title": "Interview with Alex Marek of Pandemia",
+      "bandID": "451"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=KbR1OBi2qAQ",
+      "type": "Interview",
+      "title": "Eric Peterson of Testament discusses the band's upcoming Australian tour",
+      "bandID": "70"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CFx8ANVkCIM",
+      "type": "Interview",
+      "title": "Exclusive: King Diamond's Andy La Rocque discusses upcoming 'Saint Lucifer's Hospital 1920' album",
+      "bandID": "255"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=zjcnInEYH2k",
+      "type": "Interview",
+      "title": "Interview with Kshitiz Moktan of Chepang",
+      "bandID": "3540415220"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=52hteOscWS0",
+      "type": "Interview",
+      "title": "Interview with Gothony for The Offering Webzine",
+      "bandID": "3540397643"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=lasZelju8Kw",
+      "type": "Interview",
+      "title": "Interview with Matty D of DIRTY PAGANS on the band's upcoming album 'Forever High'",
+      "bandID": "3540423680"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ITVN2luCuNY",
+      "type": "Interview",
+      "title": "Gus Ríos of Cold Slither on the Long Awaited G.I Joe Album, Gruesome, Sean Reinert, & More",
+      "bandID": "3540564854"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=CrAN8g4_tG0",
+      "type": "Interview",
+      "title": "Interview with Andy LaRocque of KING DIAMOND for Heavy Demons Radio Show",
+      "bandID": "255"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=4IwHyoJSfUw",
+      "type": "Interview",
+      "title": "Interview with Andy Thomas of Rivers of Nihil",
+      "bandID": "3540301156"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=_222faqJo2c",
+      "type": "Interview",
+      "title": "Interview with 10,000 Years @ Desertfest",
+      "bandID": "3540470669"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=1oEbgA7U6dI",
+      "type": "Interview",
+      "title": "Interview with Tuomas & Paolo of LEVERAGE dive into the making of the album, the band’s evolution, and what lies ahead",
+      "bandID": "73597"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=FKOqExYF6AA",
+      "type": "Interview",
+      "title": "Richie Cavalera of Incite discusses the band's new album Savage New Times, how they have grown as metalheads, and the upcoming Summer Slaughter tour",
+      "bandID": "3540274333"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=jsbE3kH0FOw",
+      "type": "Interview",
+      "title": "Interview with Vanguardian for The Offering Webzine 2025 ",
+      "bandID": "3540511870"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=ZxDxZ8QOxH8",
+      "type": "Interview",
+      "title": "Interview with Ota Gajdoš of Solar System at South of Heaven open air festival",
+      "bandID": "3540418537"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=DwDbhk0L8iE",
+      "type": "Interview",
+      "title": "Interview with Joan Francesc Serra Monguió of Jade",
+      "bandID": "3540446033"
+    },
+    {
+      "url": "https://youtu.be/Z7qs0AwwXLw?si=FgWApOmJh3QtJuXS",
+      "type": "Interview",
+      "title": "Fredrik Åkesson of OPETH talks crafting iconic solos, meeting Yngwie Malmsteen, his musical journey and gear",
+      "bandID": "38"
+    },
+    {
+      "url": " https://www.youtube.com/watch?v=XjaWkNbzsj4",
+      "type": "Interview",
+      "title": "Steve DiGiorgio of Testament talks frontman Chuck Billy, Death, his studio session with Megadeth and conflict resolution on the road",
+      "bandID": "70"
+    },
+    {
+      "url": "https://www.youtube.com/watch?v=Pz5M-_IoPwA",
+      "type": "Interview",
+      "title": "Interview with Matt Harvey of Gruesome",
+      "bandID": "3540392674"
+    }
+  ]
+}
